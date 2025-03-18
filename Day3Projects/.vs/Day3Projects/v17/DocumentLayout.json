@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning\\Day3Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F82756B6-3C4E-4C48-9D9C-2C26510EDB46}|StringBuilderDemo\\StringBuilderDemo.csproj|d:\\greatlearning\\day3projects\\stringbuilderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82756B6-3C4E-4C48-9D9C-2C26510EDB46}|StringBuilderDemo\\StringBuilderDemo.csproj|solutionrelative:stringbuilderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B73A8D3-0496-4890-AB8D-00A79900368A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\greatlearning\\day3projects\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B73A8D3-0496-4890-AB8D-00A79900368A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A75ABBF-FA88-4324-8CDB-B60E9B72B83F}|TwoDarray\\TwoDarray.csproj|d:\\greatlearning\\day3projects\\twodarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A75ABBF-FA88-4324-8CDB-B60E9B72B83F}|TwoDarray\\TwoDarray.csproj|solutionrelative:twodarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC49145-181E-4902-9DB2-132F3CC8435E}|ReadandWriteOnlyProperty\\ReadandWriteOnlyProperty.csproj|d:\\greatlearning\\day3projects\\readandwriteonlyproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC49145-181E-4902-9DB2-132F3CC8435E}|ReadandWriteOnlyProperty\\ReadandWriteOnlyProperty.csproj|solutionrelative:readandwriteonlyproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120E85F4-49C9-441A-841F-651B6E699DB2}|Propertiesdemo\\Propertiesdemo.csproj|d:\\greatlearning\\day3projects\\propertiesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120E85F4-49C9-441A-841F-651B6E699DB2}|Propertiesdemo\\Propertiesdemo.csproj|solutionrelative:propertiesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D60CB9-59E5-4766-853A-FC8BB4149717}|ArraysDemo\\ArraysDemo.csproj|d:\\greatlearning\\day3projects\\arraysdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D60CB9-59E5-4766-853A-FC8BB4149717}|ArraysDemo\\ArraysDemo.csproj|solutionrelative:arraysdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day3Projects\\StringBuilderDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilderDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day3Projects\\StringBuilderDemo\\Program.cs",
+              "RelativeToolTip": "StringBuilderDemo\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAoJmZmZnJv20AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:07:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day3Projects\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day3Projects\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:04:08.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day3Projects\\TwoDarray\\Program.cs",
+              "RelativeDocumentMoniker": "TwoDarray\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day3Projects\\TwoDarray\\Program.cs",
+              "RelativeToolTip": "TwoDarray\\Program.cs",
+              "ViewState": "AgIAACgAAACAZmZmZmYswDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:14:16.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day3Projects\\ReadandWriteOnlyProperty\\Program.cs",
+              "RelativeDocumentMoniker": "ReadandWriteOnlyProperty\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day3Projects\\ReadandWriteOnlyProperty\\Program.cs",
+              "RelativeToolTip": "ReadandWriteOnlyProperty\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswHEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:03:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day3Projects\\Propertiesdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Propertiesdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day3Projects\\Propertiesdemo\\Program.cs",
+              "RelativeToolTip": "Propertiesdemo\\Program.cs",
+              "ViewState": "AgIAAFkAAACgmZmZmZkpwGkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:28:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day3Projects\\ArraysDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day3Projects\\ArraysDemo\\Program.cs",
+              "RelativeToolTip": "ArraysDemo\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAoJmZmZnJv4IAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:33:48.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

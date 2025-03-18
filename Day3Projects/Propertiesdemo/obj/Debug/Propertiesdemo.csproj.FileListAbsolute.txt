@@ -1,0 +1,7 @@
+D:\GreatLearning\Day3Projects\Propertiesdemo\bin\Debug\Propertiesdemo.exe.config
+D:\GreatLearning\Day3Projects\Propertiesdemo\bin\Debug\Propertiesdemo.exe
+D:\GreatLearning\Day3Projects\Propertiesdemo\bin\Debug\Propertiesdemo.pdb
+D:\GreatLearning\Day3Projects\Propertiesdemo\obj\Debug\Propertiesdemo.csproj.AssemblyReference.cache
+D:\GreatLearning\Day3Projects\Propertiesdemo\obj\Debug\Propertiesdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day3Projects\Propertiesdemo\obj\Debug\Propertiesdemo.exe
+D:\GreatLearning\Day3Projects\Propertiesdemo\obj\Debug\Propertiesdemo.pdb

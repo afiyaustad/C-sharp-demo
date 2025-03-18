@@ -1,0 +1,7 @@
+D:\GreatLearning\Day3Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\GreatLearning\Day3Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\GreatLearning\Day3Projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\GreatLearning\Day3Projects\ConsoleApp1\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+D:\GreatLearning\Day3Projects\ConsoleApp1\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day3Projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\GreatLearning\Day3Projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
