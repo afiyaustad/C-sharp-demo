@@ -1,0 +1,10 @@
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\bin\Debug\FileHandlingInWindows.exe.config
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\bin\Debug\FileHandlingInWindows.exe
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\bin\Debug\FileHandlingInWindows.pdb
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\obj\Debug\FileHandlingInWindows.csproj.AssemblyReference.cache
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\obj\Debug\FileHandlingInWindows.Form1.resources
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\obj\Debug\FileHandlingInWindows.Properties.Resources.resources
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\obj\Debug\FileHandlingInWindows.csproj.GenerateResource.cache
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\obj\Debug\FileHandlingInWindows.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\obj\Debug\FileHandlingInWindows.exe
+D:\GreatLearning\Day5Projects\FileHandlingInWindows\obj\Debug\FileHandlingInWindows.pdb

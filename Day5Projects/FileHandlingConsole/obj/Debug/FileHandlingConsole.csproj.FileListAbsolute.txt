@@ -1,0 +1,7 @@
+D:\GreatLearning\Day5Projects\FileHandlingConsole\bin\Debug\FileHandlingConsole.exe.config
+D:\GreatLearning\Day5Projects\FileHandlingConsole\bin\Debug\FileHandlingConsole.exe
+D:\GreatLearning\Day5Projects\FileHandlingConsole\bin\Debug\FileHandlingConsole.pdb
+D:\GreatLearning\Day5Projects\FileHandlingConsole\obj\Debug\FileHandlingConsole.csproj.AssemblyReference.cache
+D:\GreatLearning\Day5Projects\FileHandlingConsole\obj\Debug\FileHandlingConsole.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day5Projects\FileHandlingConsole\obj\Debug\FileHandlingConsole.exe
+D:\GreatLearning\Day5Projects\FileHandlingConsole\obj\Debug\FileHandlingConsole.pdb
