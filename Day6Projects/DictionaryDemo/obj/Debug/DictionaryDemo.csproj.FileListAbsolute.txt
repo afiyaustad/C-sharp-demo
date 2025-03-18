@@ -1,0 +1,7 @@
+D:\GreatLearning\Day6Projects\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+D:\GreatLearning\Day6Projects\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+D:\GreatLearning\Day6Projects\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+D:\GreatLearning\Day6Projects\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.AssemblyReference.cache
+D:\GreatLearning\Day6Projects\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day6Projects\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+D:\GreatLearning\Day6Projects\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

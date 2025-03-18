@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning\\Day6Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A767584-FCA7-45E4-BAA8-8DE89F231D55}|DelegatesInbuildFunction\\DelegatesInbuildFunction.csproj|d:\\greatlearning\\day6projects\\delegatesinbuildfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A767584-FCA7-45E4-BAA8-8DE89F231D55}|DelegatesInbuildFunction\\DelegatesInbuildFunction.csproj|solutionrelative:delegatesinbuildfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0732C-5818-4E05-876F-6CE8A48A36AC}|DelegateDemo3LambdaExp\\DelegateDemo3LambdaExp.csproj|d:\\greatlearning\\day6projects\\delegatedemo3lambdaexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0732C-5818-4E05-876F-6CE8A48A36AC}|DelegateDemo3LambdaExp\\DelegateDemo3LambdaExp.csproj|solutionrelative:delegatedemo3lambdaexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBB004D-92E0-4F68-ACA8-64DE789174A1}|DelegatesDemo2\\DelegatesDemo2.csproj|d:\\greatlearning\\day6projects\\delegatesdemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBB004D-92E0-4F68-ACA8-64DE789174A1}|DelegatesDemo2\\DelegatesDemo2.csproj|solutionrelative:delegatesdemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6EFB8D-2595-4BB1-91DD-64A4D7AAF14B}|DelegateDemo1\\DelegateDemo1.csproj|d:\\greatlearning\\day6projects\\delegatedemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6EFB8D-2595-4BB1-91DD-64A4D7AAF14B}|DelegateDemo1\\DelegateDemo1.csproj|solutionrelative:delegatedemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6211042-4EDA-4541-AFF6-B77022D97E0D}|QueueDemo\\QueueDemo.csproj|d:\\greatlearning\\day6projects\\queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6211042-4EDA-4541-AFF6-B77022D97E0D}|QueueDemo\\QueueDemo.csproj|solutionrelative:queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045A5C1E-D019-4E4D-B53F-85DDDB42F657}|StackDemo\\StackDemo.csproj|d:\\greatlearning\\day6projects\\stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045A5C1E-D019-4E4D-B53F-85DDDB42F657}|StackDemo\\StackDemo.csproj|solutionrelative:stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B238BA2-FDAC-4B25-B4FB-6561B65FEF09}|DictionaryDemo\\DictionaryDemo.csproj|d:\\greatlearning\\day6projects\\dictionarydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B238BA2-FDAC-4B25-B4FB-6561B65FEF09}|DictionaryDemo\\DictionaryDemo.csproj|solutionrelative:dictionarydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBC3A85-DE6E-4A64-9C3E-412D14481A87}|GenericCollectionDemo\\GenericCollectionDemo.csproj|d:\\greatlearning\\day6projects\\genericcollectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBC3A85-DE6E-4A64-9C3E-412D14481A87}|GenericCollectionDemo\\GenericCollectionDemo.csproj|solutionrelative:genericcollectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day6Projects\\DelegatesInbuildFunction\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesInbuildFunction\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day6Projects\\DelegatesInbuildFunction\\Program.cs*",
+              "RelativeToolTip": "DelegatesInbuildFunction\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:08:51.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day6Projects\\DelegateDemo3LambdaExp\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateDemo3LambdaExp\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day6Projects\\DelegateDemo3LambdaExp\\Program.cs",
+              "RelativeToolTip": "DelegateDemo3LambdaExp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:16:08.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day6Projects\\DelegatesDemo2\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesDemo2\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day6Projects\\DelegatesDemo2\\Program.cs",
+              "RelativeToolTip": "DelegatesDemo2\\Program.cs",
+              "ViewState": "AgIAABUAAAAANDMzMzPjvxoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:07:11.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day6Projects\\DelegateDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateDemo1\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day6Projects\\DelegateDemo1\\Program.cs",
+              "RelativeToolTip": "DelegateDemo1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:37:21.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day6Projects\\QueueDemo\\Program.cs",
+              "RelativeDocumentMoniker": "QueueDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day6Projects\\QueueDemo\\Program.cs",
+              "RelativeToolTip": "QueueDemo\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:19:18.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day6Projects\\StackDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StackDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day6Projects\\StackDemo\\Program.cs",
+              "RelativeToolTip": "StackDemo\\Program.cs",
+              "ViewState": "AgIAACAAAACAMzMzMzMtwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:15:44.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day6Projects\\DictionaryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DictionaryDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day6Projects\\DictionaryDemo\\Program.cs",
+              "RelativeToolTip": "DictionaryDemo\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:20:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day6Projects\\GenericCollectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCollectionDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day6Projects\\GenericCollectionDemo\\Program.cs",
+              "RelativeToolTip": "GenericCollectionDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:26:31.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\GreatLearning\Day6Projects\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.exe.config
+D:\GreatLearning\Day6Projects\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.exe
+D:\GreatLearning\Day6Projects\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.pdb
+D:\GreatLearning\Day6Projects\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.csproj.AssemblyReference.cache
+D:\GreatLearning\Day6Projects\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day6Projects\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.exe
+D:\GreatLearning\Day6Projects\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.pdb
