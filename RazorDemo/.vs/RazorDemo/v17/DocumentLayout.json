@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning\\RazorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\razordemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\razordemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\products\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\products\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\products\\productindex.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\products\\productindex.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\blue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\blue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|d:\\greatlearning\\razordemo\\razordemo\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29933BF4-3E33-4062-AB4D-B2A532862489}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorDemo\\appsettings.json",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\appsettings.json",
+              "RelativeToolTip": "RazorDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T07:16:37.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\package.json",
+              "RelativeDocumentMoniker": "RazorDemo\\package.json",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\package.json",
+              "RelativeToolTip": "RazorDemo\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T07:15:00.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Service\\ProductService.cs",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Service\\ProductService.cs",
+              "RelativeToolTip": "RazorDemo\\Pages\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:31:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Models\\Product.cs",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Models\\Product.cs",
+              "RelativeToolTip": "RazorDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:29:38.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T05:25:29.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Shared\\_Layout1.cshtml",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T05:24:02.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Program.cs",
+              "RelativeToolTip": "RazorDemo\\Program.cs",
+              "ViewState": "AgIAACUAAACAMzMzMzMtwB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:06:40.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductIndex.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Products\\ProductIndex.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Products\\ProductIndex.cshtml",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Products\\ProductIndex.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Products\\ProductIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T06:38:14.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductIndex.cshtml.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Products\\ProductIndex.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Products\\ProductIndex.cshtml.cs",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Products\\ProductIndex.cshtml.cs",
+              "RelativeToolTip": "RazorDemo\\Pages\\Products\\ProductIndex.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:43:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:35:54.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RazorDemo",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\RazorDemo.csproj",
+              "RelativeDocumentMoniker": "RazorDemo\\RazorDemo.csproj",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\RazorDemo.csproj",
+              "RelativeToolTip": "RazorDemo\\RazorDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T03:44:40.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "RazorDemo\\wwwroot\\index.html",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\wwwroot\\index.html",
+              "RelativeToolTip": "RazorDemo\\wwwroot\\index.html",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-24T04:35:15.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Blue.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Blue.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Blue.cshtml",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Blue.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Blue.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:33:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorDemo\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:59:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:02:44.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RazorDemo\\appsettings.Development.json",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\appsettings.Development.json",
+              "RelativeToolTip": "RazorDemo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T04:06:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\GreatLearning\\RazorDemo\\RazorDemo\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:00:25.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
