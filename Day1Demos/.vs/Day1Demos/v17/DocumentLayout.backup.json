@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning\\Day1Demos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFC67C8-816A-4BBE-9833-7C7F957A0FEE}|C:\\Users\\AFIYA\\Downloads\\Week1Day1\\Day1Demos\\nullabledemo\\nullabledemo.csproj|c:\\users\\afiya\\downloads\\week1day1\\day1demos\\nullabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F3439A-E5F1-4A15-9EC3-967F864E9A3A}|C:\\Users\\AFIYA\\Downloads\\Week1Day1\\Day1Demos\\BoxingUnboxing\\BoxingUnboxing.csproj|c:\\users\\afiya\\downloads\\week1day1\\day1demos\\boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9483BB48-870B-442E-A432-F3D429D5A57C}|Printandscandemo\\Printandscandemo.csproj|D:\\GreatLearning\\Day1Demos\\printandscandemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9483BB48-870B-442E-A432-F3D429D5A57C}|Printandscandemo\\Printandscandemo.csproj|solutionrelative:printandscandemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC12528-2C4E-4F78-B5B0-C8F5CFCC3A09}|callbyvalueandrefrence\\callbyvalueandrefrence.csproj|d:\\greatlearning\\day1demos\\callbyvalueandrefrence\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC12528-2C4E-4F78-B5B0-C8F5CFCC3A09}|callbyvalueandrefrence\\callbyvalueandrefrence.csproj|solutionrelative:callbyvalueandrefrence\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC12528-2C4E-4F78-B5B0-C8F5CFCC3A09}|callbyvalueandrefrence\\callbyvalueandrefrence.csproj|d:\\greatlearning\\day1demos\\callbyvalueandrefrence\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCC12528-2C4E-4F78-B5B0-C8F5CFCC3A09}|callbyvalueandrefrence\\callbyvalueandrefrence.csproj|solutionrelative:callbyvalueandrefrence\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B55AC1-34D1-4F99-83C5-12918994180C}|classobjectdemo\\classobjectdemo.csproj|d:\\greatlearning\\day1demos\\classobjectdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B55AC1-34D1-4F99-83C5-12918994180C}|classobjectdemo\\classobjectdemo.csproj|solutionrelative:classobjectdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B55AC1-34D1-4F99-83C5-12918994180C}|classobjectdemo\\classobjectdemo.csproj|d:\\greatlearning\\day1demos\\classobjectdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B55AC1-34D1-4F99-83C5-12918994180C}|classobjectdemo\\classobjectdemo.csproj|solutionrelative:classobjectdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5611021E-CAA1-45EB-8491-5917C5387F7C}|CubeDemo\\CubeDemo.csproj|d:\\greatlearning\\day1demos\\cubedemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5611021E-CAA1-45EB-8491-5917C5387F7C}|CubeDemo\\CubeDemo.csproj|solutionrelative:cubedemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AFIYA\\Downloads\\Week1Day1\\Day1Demos\\nullabledemo\\Program.cs",
+              "ToolTip": "C:\\Users\\AFIYA\\Downloads\\Week1Day1\\Day1Demos\\nullabledemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:32:31.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AFIYA\\Downloads\\Week1Day1\\Day1Demos\\BoxingUnboxing\\Program.cs",
+              "ToolTip": "C:\\Users\\AFIYA\\Downloads\\Week1Day1\\Day1Demos\\BoxingUnboxing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:31:07.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day1Demos\\callbyvalueandrefrence\\Form1.cs",
+              "RelativeDocumentMoniker": "callbyvalueandrefrence\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning\\Day1Demos\\callbyvalueandrefrence\\Form1.cs",
+              "RelativeToolTip": "callbyvalueandrefrence\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:26:46.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning\\Day1Demos\\callbyvalueandrefrence\\Form1.cs",
+              "RelativeDocumentMoniker": "callbyvalueandrefrence\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning\\Day1Demos\\callbyvalueandrefrence\\Form1.cs [Design]",
+              "RelativeToolTip": "callbyvalueandrefrence\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:23:00.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day1Demos\\classobjectdemo\\Form1.cs",
+              "RelativeDocumentMoniker": "classobjectdemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning\\Day1Demos\\classobjectdemo\\Form1.cs",
+              "RelativeToolTip": "classobjectdemo\\Form1.cs",
+              "ViewState": "AgIAAAAAAACAZmZmZmYkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:00:29.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning\\Day1Demos\\classobjectdemo\\Form1.cs",
+              "RelativeDocumentMoniker": "classobjectdemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning\\Day1Demos\\classobjectdemo\\Form1.cs [Design]",
+              "RelativeToolTip": "classobjectdemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:00:11.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day1Demos\\CubeDemo\\Class1.cs",
+              "RelativeDocumentMoniker": "CubeDemo\\Class1.cs",
+              "ToolTip": "D:\\GreatLearning\\Day1Demos\\CubeDemo\\Class1.cs",
+              "RelativeToolTip": "CubeDemo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:52:44.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day1Demos\\Printandscandemo\\Program.cs",
+              "RelativeDocumentMoniker": "Printandscandemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day1Demos\\Printandscandemo\\Program.cs",
+              "RelativeToolTip": "Printandscandemo\\Program.cs",
+              "ViewState": "AgIAAAsAAADAmZmZmZkdwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:44:06.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\GreatLearning\Day1Demos\Printandscandemo\bin\Debug\Printandscandemo.exe.config
+D:\GreatLearning\Day1Demos\Printandscandemo\bin\Debug\Printandscandemo.exe
+D:\GreatLearning\Day1Demos\Printandscandemo\bin\Debug\Printandscandemo.pdb
+D:\GreatLearning\Day1Demos\Printandscandemo\obj\Debug\Printandscandemo.csproj.AssemblyReference.cache
+D:\GreatLearning\Day1Demos\Printandscandemo\obj\Debug\Printandscandemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day1Demos\Printandscandemo\obj\Debug\Printandscandemo.exe
+D:\GreatLearning\Day1Demos\Printandscandemo\obj\Debug\Printandscandemo.pdb
