@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning\\Day2Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D922201-8137-43EF-946F-744818639DB6}|IfDemos\\IfDemos.csproj|d:\\greatlearning\\day2projects\\ifdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D922201-8137-43EF-946F-744818639DB6}|IfDemos\\IfDemos.csproj|solutionrelative:ifdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A860201C-7CAD-4C28-9BD5-FE90E02A05AF}|JumpStatmentsLoop\\JumpStatmentsLoop.csproj|d:\\greatlearning\\day2projects\\jumpstatmentsloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A860201C-7CAD-4C28-9BD5-FE90E02A05AF}|JumpStatmentsLoop\\JumpStatmentsLoop.csproj|solutionrelative:jumpstatmentsloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0048CD-DB3E-4403-82B6-E89808336220}|QuadrantProgram\\QuadrantProgram.csproj|d:\\greatlearning\\day2projects\\quadrantprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0048CD-DB3E-4403-82B6-E89808336220}|QuadrantProgram\\QuadrantProgram.csproj|solutionrelative:quadrantprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F448307-B02C-4D61-8934-5B2D344F14FA}|StringInbuildFunctions\\StringInbuildFunctions.csproj|d:\\greatlearning\\day2projects\\stringinbuildfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F448307-B02C-4D61-8934-5B2D344F14FA}|StringInbuildFunctions\\StringInbuildFunctions.csproj|solutionrelative:stringinbuildfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E96656-05BD-4767-A6D5-B8F9595BD5FF}|BoxingUnboxing\\BoxingUnboxing.csproj|d:\\greatlearning\\day2projects\\boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E96656-05BD-4767-A6D5-B8F9595BD5FF}|BoxingUnboxing\\BoxingUnboxing.csproj|solutionrelative:boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day2Projects\\JumpStatmentsLoop\\Program.cs",
+              "RelativeDocumentMoniker": "JumpStatmentsLoop\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day2Projects\\JumpStatmentsLoop\\Program.cs",
+              "RelativeToolTip": "JumpStatmentsLoop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwPQoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:59:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day2Projects\\QuadrantProgram\\Program.cs",
+              "RelativeDocumentMoniker": "QuadrantProgram\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day2Projects\\QuadrantProgram\\Program.cs",
+              "RelativeToolTip": "QuadrantProgram\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:22:38.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day2Projects\\IfDemos\\Program.cs",
+              "RelativeDocumentMoniker": "IfDemos\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day2Projects\\IfDemos\\Program.cs",
+              "RelativeToolTip": "IfDemos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:12:12.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day2Projects\\StringInbuildFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "StringInbuildFunctions\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day2Projects\\StringInbuildFunctions\\Program.cs",
+              "RelativeToolTip": "StringInbuildFunctions\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1IAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:57:47.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning\\Day2Projects\\BoxingUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "BoxingUnboxing\\Program.cs",
+              "ToolTip": "D:\\GreatLearning\\Day2Projects\\BoxingUnboxing\\Program.cs",
+              "RelativeToolTip": "BoxingUnboxing\\Program.cs",
+              "ViewState": "AgIAAAoAAAAwMzMzMzM7wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:39:12.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

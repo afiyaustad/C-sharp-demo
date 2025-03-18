@@ -1,0 +1,7 @@
+D:\GreatLearning\Day2Projects\QuadrantProgram\bin\Debug\QuadrantProgram.exe.config
+D:\GreatLearning\Day2Projects\QuadrantProgram\bin\Debug\QuadrantProgram.exe
+D:\GreatLearning\Day2Projects\QuadrantProgram\bin\Debug\QuadrantProgram.pdb
+D:\GreatLearning\Day2Projects\QuadrantProgram\obj\Debug\QuadrantProgram.csproj.AssemblyReference.cache
+D:\GreatLearning\Day2Projects\QuadrantProgram\obj\Debug\QuadrantProgram.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day2Projects\QuadrantProgram\obj\Debug\QuadrantProgram.exe
+D:\GreatLearning\Day2Projects\QuadrantProgram\obj\Debug\QuadrantProgram.pdb

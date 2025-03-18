@@ -1,0 +1,7 @@
+D:\GreatLearning\Day2Projects\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.exe.config
+D:\GreatLearning\Day2Projects\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.exe
+D:\GreatLearning\Day2Projects\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.pdb
+D:\GreatLearning\Day2Projects\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.csproj.AssemblyReference.cache
+D:\GreatLearning\Day2Projects\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day2Projects\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.exe
+D:\GreatLearning\Day2Projects\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.pdb
