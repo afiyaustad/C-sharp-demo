@@ -1,0 +1,11 @@
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\bin\Debug\net8.0\ArithmetiOpreanOther.deps.json
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\bin\Debug\net8.0\ArithmetiOpreanOther.dll
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\bin\Debug\net8.0\ArithmetiOpreanOther.pdb
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\obj\Debug\net8.0\ArithmetiOpreanOther.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\obj\Debug\net8.0\ArithmetiOpreanOther.AssemblyInfoInputs.cache
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\obj\Debug\net8.0\ArithmetiOpreanOther.AssemblyInfo.cs
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\obj\Debug\net8.0\ArithmetiOpreanOther.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\obj\Debug\net8.0\ArithmetiOpreanOther.dll
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\obj\Debug\net8.0\refint\ArithmetiOpreanOther.dll
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\obj\Debug\net8.0\ArithmetiOpreanOther.pdb
+D:\GreatLearning\Day7Projects\ArithmetiOpreanOther\obj\Debug\net8.0\ref\ArithmetiOpreanOther.dll

@@ -1,0 +1,14 @@
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\bin\Debug\net8.0\C_NewFeatures_Localfunctions.exe
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\bin\Debug\net8.0\C_NewFeatures_Localfunctions.deps.json
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\bin\Debug\net8.0\C_NewFeatures_Localfunctions.runtimeconfig.json
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\bin\Debug\net8.0\C_NewFeatures_Localfunctions.dll
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\bin\Debug\net8.0\C_NewFeatures_Localfunctions.pdb
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\C_NewFeatures_Localfunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\C_NewFeatures_Localfunctions.AssemblyInfoInputs.cache
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\C_NewFeatures_Localfunctions.AssemblyInfo.cs
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\C_NewFeatures_Localfunctions.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\C_NewFeatures_Localfunctions.dll
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\refint\C_NewFeatures_Localfunctions.dll
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\C_NewFeatures_Localfunctions.pdb
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\C_NewFeatures_Localfunctions.genruntimeconfig.cache
+D:\GreatLearning\Day7Projects\C_NewFeatures_Localfunctions\obj\Debug\net8.0\ref\C_NewFeatures_Localfunctions.dll

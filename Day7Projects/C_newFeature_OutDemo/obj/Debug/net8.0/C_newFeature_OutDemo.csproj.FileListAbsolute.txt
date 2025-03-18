@@ -1,0 +1,14 @@
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\bin\Debug\net8.0\C_newFeature_OutDemo.exe
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\bin\Debug\net8.0\C_newFeature_OutDemo.deps.json
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\bin\Debug\net8.0\C_newFeature_OutDemo.runtimeconfig.json
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\bin\Debug\net8.0\C_newFeature_OutDemo.dll
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\bin\Debug\net8.0\C_newFeature_OutDemo.pdb
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\C_newFeature_OutDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\C_newFeature_OutDemo.AssemblyInfoInputs.cache
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\C_newFeature_OutDemo.AssemblyInfo.cs
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\C_newFeature_OutDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\C_newFeature_OutDemo.dll
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\refint\C_newFeature_OutDemo.dll
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\C_newFeature_OutDemo.pdb
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\C_newFeature_OutDemo.genruntimeconfig.cache
+D:\GreatLearning\Day7Projects\C_newFeature_OutDemo\obj\Debug\net8.0\ref\C_newFeature_OutDemo.dll

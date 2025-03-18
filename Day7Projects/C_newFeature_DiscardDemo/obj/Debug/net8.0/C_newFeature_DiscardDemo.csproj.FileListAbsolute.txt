@@ -1,0 +1,14 @@
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\bin\Debug\net8.0\C_newFeature_DiscardDemo.exe
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\bin\Debug\net8.0\C_newFeature_DiscardDemo.deps.json
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\bin\Debug\net8.0\C_newFeature_DiscardDemo.runtimeconfig.json
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\bin\Debug\net8.0\C_newFeature_DiscardDemo.dll
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\bin\Debug\net8.0\C_newFeature_DiscardDemo.pdb
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\C_newFeature_DiscardDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\C_newFeature_DiscardDemo.AssemblyInfoInputs.cache
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\C_newFeature_DiscardDemo.AssemblyInfo.cs
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\C_newFeature_DiscardDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\C_newFeature_DiscardDemo.dll
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\refint\C_newFeature_DiscardDemo.dll
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\C_newFeature_DiscardDemo.pdb
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\C_newFeature_DiscardDemo.genruntimeconfig.cache
+D:\GreatLearning\Day7Projects\C_newFeature_DiscardDemo\obj\Debug\net8.0\ref\C_newFeature_DiscardDemo.dll

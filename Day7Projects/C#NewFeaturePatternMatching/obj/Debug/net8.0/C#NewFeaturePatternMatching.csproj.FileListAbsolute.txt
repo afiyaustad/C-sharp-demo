@@ -1,0 +1,14 @@
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\bin\Debug\net8.0\C#NewFeaturePatternMatching.exe
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\bin\Debug\net8.0\C#NewFeaturePatternMatching.deps.json
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\bin\Debug\net8.0\C#NewFeaturePatternMatching.runtimeconfig.json
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\bin\Debug\net8.0\C#NewFeaturePatternMatching.dll
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\bin\Debug\net8.0\C#NewFeaturePatternMatching.pdb
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\C#NewFeaturePatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\C#NewFeaturePatternMatching.AssemblyInfoInputs.cache
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\C#NewFeaturePatternMatching.AssemblyInfo.cs
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\C#NewFeaturePatternMatching.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\C#NewFeaturePatternMatching.dll
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\refint\C#NewFeaturePatternMatching.dll
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\C#NewFeaturePatternMatching.pdb
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\C#NewFeaturePatternMatching.genruntimeconfig.cache
+D:\GreatLearning\Day7Projects\C#NewFeaturePatternMatching\obj\Debug\net8.0\ref\C#NewFeaturePatternMatching.dll

@@ -1,0 +1,5 @@
+D:\GreatLearning\Day7Projects\AsynchronusDemo\obj\Debug\AsynchronusDemo.csproj.AssemblyReference.cache
+D:\GreatLearning\Day7Projects\AsynchronusDemo\obj\Debug\AsynchronusDemo.Form1.resources
+D:\GreatLearning\Day7Projects\AsynchronusDemo\obj\Debug\AsynchronusDemo.Properties.Resources.resources
+D:\GreatLearning\Day7Projects\AsynchronusDemo\obj\Debug\AsynchronusDemo.csproj.GenerateResource.cache
+D:\GreatLearning\Day7Projects\AsynchronusDemo\obj\Debug\AsynchronusDemo.csproj.CoreCompileInputs.cache

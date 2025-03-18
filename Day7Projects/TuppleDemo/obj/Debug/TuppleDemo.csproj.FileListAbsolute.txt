@@ -1,0 +1,7 @@
+D:\GreatLearning\Day7Projects\TuppleDemo\bin\Debug\TuppleDemo.exe.config
+D:\GreatLearning\Day7Projects\TuppleDemo\bin\Debug\TuppleDemo.exe
+D:\GreatLearning\Day7Projects\TuppleDemo\bin\Debug\TuppleDemo.pdb
+D:\GreatLearning\Day7Projects\TuppleDemo\obj\Debug\TuppleDemo.csproj.AssemblyReference.cache
+D:\GreatLearning\Day7Projects\TuppleDemo\obj\Debug\TuppleDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day7Projects\TuppleDemo\obj\Debug\TuppleDemo.exe
+D:\GreatLearning\Day7Projects\TuppleDemo\obj\Debug\TuppleDemo.pdb
