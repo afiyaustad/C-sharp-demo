@@ -1,0 +1,14 @@
+D:\GreatLearning\Day8Projects\IndexerDemo\bin\Debug\net8.0\IndexerDemo.exe
+D:\GreatLearning\Day8Projects\IndexerDemo\bin\Debug\net8.0\IndexerDemo.deps.json
+D:\GreatLearning\Day8Projects\IndexerDemo\bin\Debug\net8.0\IndexerDemo.runtimeconfig.json
+D:\GreatLearning\Day8Projects\IndexerDemo\bin\Debug\net8.0\IndexerDemo.dll
+D:\GreatLearning\Day8Projects\IndexerDemo\bin\Debug\net8.0\IndexerDemo.pdb
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\IndexerDemo.AssemblyInfoInputs.cache
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\IndexerDemo.AssemblyInfo.cs
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\IndexerDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\IndexerDemo.dll
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\refint\IndexerDemo.dll
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\IndexerDemo.pdb
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\IndexerDemo.genruntimeconfig.cache
+D:\GreatLearning\Day8Projects\IndexerDemo\obj\Debug\net8.0\ref\IndexerDemo.dll
