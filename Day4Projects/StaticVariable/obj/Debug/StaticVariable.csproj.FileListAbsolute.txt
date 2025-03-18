@@ -1,0 +1,10 @@
+D:\GreatLearning\Day4Projects\StaticVariable\bin\Debug\StaticVariable.exe.config
+D:\GreatLearning\Day4Projects\StaticVariable\bin\Debug\StaticVariable.exe
+D:\GreatLearning\Day4Projects\StaticVariable\bin\Debug\StaticVariable.pdb
+D:\GreatLearning\Day4Projects\StaticVariable\obj\Debug\StaticVariable.csproj.AssemblyReference.cache
+D:\GreatLearning\Day4Projects\StaticVariable\obj\Debug\StaticVariable.Form1.resources
+D:\GreatLearning\Day4Projects\StaticVariable\obj\Debug\StaticVariable.Properties.Resources.resources
+D:\GreatLearning\Day4Projects\StaticVariable\obj\Debug\StaticVariable.csproj.GenerateResource.cache
+D:\GreatLearning\Day4Projects\StaticVariable\obj\Debug\StaticVariable.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day4Projects\StaticVariable\obj\Debug\StaticVariable.exe
+D:\GreatLearning\Day4Projects\StaticVariable\obj\Debug\StaticVariable.pdb

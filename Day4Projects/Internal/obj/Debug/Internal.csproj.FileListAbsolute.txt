@@ -1,0 +1,6 @@
+D:\GreatLearning\Day4Projects\Internal\bin\Debug\Internal.dll
+D:\GreatLearning\Day4Projects\Internal\bin\Debug\Internal.pdb
+D:\GreatLearning\Day4Projects\Internal\obj\Debug\Internal.csproj.AssemblyReference.cache
+D:\GreatLearning\Day4Projects\Internal\obj\Debug\Internal.csproj.CoreCompileInputs.cache
+D:\GreatLearning\Day4Projects\Internal\obj\Debug\Internal.dll
+D:\GreatLearning\Day4Projects\Internal\obj\Debug\Internal.pdb
