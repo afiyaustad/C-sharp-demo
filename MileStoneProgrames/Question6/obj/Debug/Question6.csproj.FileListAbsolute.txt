@@ -1,0 +1,7 @@
+D:\GreatLearning\MileStoneProgrames\Question6\bin\Debug\Question6.exe.config
+D:\GreatLearning\MileStoneProgrames\Question6\bin\Debug\Question6.exe
+D:\GreatLearning\MileStoneProgrames\Question6\bin\Debug\Question6.pdb
+D:\GreatLearning\MileStoneProgrames\Question6\obj\Debug\Question6.csproj.AssemblyReference.cache
+D:\GreatLearning\MileStoneProgrames\Question6\obj\Debug\Question6.csproj.CoreCompileInputs.cache
+D:\GreatLearning\MileStoneProgrames\Question6\obj\Debug\Question6.exe
+D:\GreatLearning\MileStoneProgrames\Question6\obj\Debug\Question6.pdb
